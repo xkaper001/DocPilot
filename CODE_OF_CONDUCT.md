@@ -2,9 +2,9 @@
 
 ## Our Pledge
 
-We, as members, contributors, and leaders of the DocPilot community, pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders of the **DocPilot community**, pledge to make participation in our project and our community a **harassment-free experience for everyone**, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We pledge to **act and interact in ways**  that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards 🌟
 
@@ -42,9 +42,7 @@ Given DocPilot's focus on healthcare technology, we also emphasize:
 
 ## Enforcement Responsibilities 👮‍♀️
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Community leaders have the right and responsibility to **remove**,**edit**, or **reject** comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope 🌐
 
@@ -55,13 +53,15 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ### Reporting
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-- **Email**: [Maintainer contact information to be added]
+
+- **Email**: [maintainer@example.com] (mailto: maintainer@example.com)<!--TODO : replace with the real alias before merge -->
+
 - **GitHub Issues**: For public concerns that don't involve personal conflicts
 
 All complaints will be reviewed and investigated promptly and fairly.
 
 ### Investigation
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All community leaders are obligated to respect **privacy and security** of the reporter of any incident.
 
 ### Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
@@ -101,12 +101,12 @@ We believe in recognizing positive behavior and contributions to our community. 
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+This Code of Conduct is adapted from the [Contributor Covenant version 3.0](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), and reflects DocPilot-specific considerations.  
+Community Impact Guidelines were inspired by [Mozilla’s Code of Conduct Enforcement Ladder](https://github.com/mozilla/inclusion).  
 
-For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
-
+- FAQs: [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)  
+- Translations: [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations)  
 ---
 
 **Thank you for helping make DocPilot a welcoming and inclusive community for everyone!** 💙
